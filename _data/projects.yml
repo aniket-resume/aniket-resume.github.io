@@ -1,5 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Collettore
+  #role: Developer
+  #duration: 2014 &mdash; Present
+  description: >
+    <ul class="resume-item-list">
+    <li>Designed and develop a highly scalable system that will gather operational state from network devices.</li>
+    <li>Helping automate network state workflows.</li>
+    <li>Currently collecting metrics from 10k devices. Metrics collected are roughly 6 million per min.</li>
+    <li>Design is faulty tolerant with controller-agent architecture.</li>
 
 - project: Kube-manager & CNI
   #role: Developer
