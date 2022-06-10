@@ -1,10 +1,15 @@
 # Jobs
 # Software Engineer
 # Software Engineer
+- company: Selector Software
+  position: Member of Technical Staff
+  duration: Nov, 2021 &mdash; Present
+  summary: Part of ETL team. My work involves designing and developing an ingestion engine to load data into the system. Transform and Extract data and structure it to use by monitoring stack. I also build a monitoring solution to monitor selector software stack and collect stats across the ecosystem.
+
 - company: Uber
   position: Senior Software Engineer
-  duration: April, 2019 &mdash; Present
-  summary: Currently part of Uber infrastructure team. My role is to design and development a system that will monitor and remediate Uber network infrastructure. Build an ecosystem for alerting, automating, and retrieving network state.
+  duration: April, 2019 &mdash; Nov, 2021
+  summary: Part of Uber infrastructure team. My role was to design and development a system that will monitor and remediate Uber network infrastructure. Build an ecosystem for alerting, automating, and retrieving network state.
 
 - company: Juniper Networks
   position: Software Engineer 4
