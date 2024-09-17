@@ -4,7 +4,8 @@
 - company: Selector Software
   position: Team Lead
   duration: Nov, 2021 &mdash; Present
-  summary: - As ETL team lead, I am responsible for designing and developing an ingestion pipeline to bring data into the system. This involves tasks such as collecting data, filtering, extracting, transforming, and storing it. - As the ML Infra lead, I am working on building an infrastructure for training and developing LLM models. Additionally, I am creating an inferencing and serving pipeline for the services to use.
+  summary: As ETL team lead, I am responsible for designing and developing an ingestion pipeline to bring data into the system. This involves tasks such as collecting data, filtering, extracting, transforming, and storing it. As the ML Infra lead, I am working on building an infrastructure for training and developing LLM models. Additionally, I am creating an inferencing and serving pipeline for the services to use.
+  summary: As ETL team lead, I am responsible for designing and developing an ingestion pipeline to bring data into the system. This involves tasks such as collecting data, filtering, extracting, transforming, and storing it. As the ML Infra lead, I am working on building an infrastructure for training and developing LLM models. Additionally, I am creating an inferencing and serving pipeline for the services to use.
 
 - company: Uber
   position: Senior Software Engineer
