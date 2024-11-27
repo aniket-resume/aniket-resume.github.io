@@ -1,19 +1,32 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Selector AI
+  position: ETL Team Lead
+  duration: Nov, 2021 &mdash; Present
+  summary: >
+    <li>As the ETL team lead, I designed and developed an ingestion pipeline for the Selector ecosystem. This involved tasks like collecting, filtering, extracting, transforming, and storing data in databases.</li>
+    <li>I created 10+ agents to collect scaled data from various sources. These engines can run natively or remotely on customer premises. Additionally, I wrote a code generation tool that automatically generates framework code. This tool saved developers time and sped up development by contributing to 70% of the agent code.</li>
+    <li>I also designed an agents manager that distributes workload and ensures fault tolerance (Patent Pending: Policy based distribution for SNMP collector).</li>
+    <li>I was the primary point of contact for customer data onboarding, investigating scale, and fixing scale issues. I successfully onboarded 20+ customers.</li>
+    <li>Boosted system performance within the ETL Stack through improvements. Few scale number from a customer setup: processing 80k OID’s/min from 24k devices for polling, real-time processing of ingests data at a rate of 200Mb/sec.</li>
+    <li>In the last 3 years, I led a team of 5 and mentored 9+. I contributed over 500K lines of code and filed 2 patents.</li>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- position: ML Infra Team Lead
+  duration: Apr, 2024 &mdash; Present
+  summary: >
+    <li>I led a team of 3 engineers for the co-pilot project. Our goal was to build an infrastructure for creating datasets, fine-tuning LLM using LoRA, and deploying inference serving. </li>
+    <li>The end-to-end pipeline can train LLM and deploy it in production in less than 30 minutes. </li>
+    <li>The current fine-tuned model performs better than the OpenAI Berkeley function calling benchmark result. </li>
+    <li>We also developed a system, understanding the underlying system, to automatically generate datasets from the metrics database.</li>
 
+- company: Uber
+  position: Senior Software Engineer
+  duration: Apr, 2019 &mdash; Nov, 2021
+  summary: >
+    <li>As lead for the Uber network infrastructure team, I oversee the design and development of a system that manages over 9k+ devices across eight data centers and cloud services. Network infrastructure management encompasses configuration, monitoring, remediation, and automated workflow.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Juniper Networks
+  position: Software Engineer
+  duration: Jul, 2013 &mdash; Apr, 2019
+  summary: >
+    <li>Building network infrastructure for a range of container environments. Container networking, SDN, VIP, load balancing and security are among the projects I've worked on. 

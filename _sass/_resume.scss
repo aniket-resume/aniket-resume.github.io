@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 1rem; }
   }
 }
 
@@ -205,6 +205,9 @@
       @include sans_bold;
       font-size: 2rem;
       margin: 0 0 .2rem;
+    }
+    .executive-summary {
+      font-size: 12px;
     }
   }
   .section-header {
